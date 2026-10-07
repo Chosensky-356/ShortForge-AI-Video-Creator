@@ -1,0 +1,12 @@
+## ShortForge AI Plan
+- [x] Set up a persistent database for creator onboarding, video projects, generated assets, and plan usage.
+- [x] Build built-in sign-in and a four-screen onboarding flow before creation, with a mobile-first charcoal, purple, blue, and white design, rounded cards, and modern typography.
+- [x] Build the creator dashboard with current plan, monthly videos remaining, recent videos, upgrade entry point, and the four requested creation actions.
+- [x] Build the beginner-friendly normal Short creator: idea, duration and style choices, real AI generation of hook, script, scenes, voiceover, visuals, captions, music, CTA, and a playable finished vertical video with project status and error handling.
+- [x] Build Product Ad and dedicated UGC Ad creators with product image upload, all requested brief fields and styles, real AI sales/UGC scripts and project persistence; disclose unavailable avatar video rather than faking it.
+- [ ] Build Create 10 Videos to generate and persist ten distinctly structured concepts from one idea, with individual selection and credit-aware one-at-a-time rendering rather than automatic batch rendering.
+- [ ] Build a reusable short-form script refinement and mobile editor pipeline with separated script, scene, image/video, voice, caption, music and rendering modules, editable preview controls, honest provider status/error handling, and downloadable vertical MP4 export for TikTok, Reels, and Shorts.
+- [x] Build a private My Videos library with type/status tabs, previews and ownership-checked edit, regenerate, download and delete actions, showing honest unavailable actions for projects without rendered media.
+- [x] Centralize server-side plan limits, period-based reservations and failure release for future generation workflows, with Free 3/month and paid-tier quotas derived from verified RevenueCat entitlements rather than client state.
+- [x] Build the RevenueCat-backed web paywall, subscription/settings pages and non-sensitive analytics, including truthful missing-configuration, restore, cancellation and failure states; list the exact external configuration required.
+- [ ] Connect the RevenueCat Test Store key through secure app configuration, load the three named products from the current Default offering, and show their verified prices and billing terms on the pricing page without granting unverified paid access.

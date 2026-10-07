@@ -1,0 +1,269 @@
+{
+  "version": 4,
+  "app_title": "ShortForge AI Plan",
+  "nav": {
+    "placement": "none",
+    "items": []
+  },
+  "pages": [
+    {
+      "id": "page-946bcbe9",
+      "name": "Sign in",
+      "route": "/login",
+      "item_ref": {
+        "index": 1,
+        "text": "Build built-in sign-in and a four-screen onboarding flow before creation, with a mobile-first charcoal, purple, blue, and white design, rounded cards, and modern typography."
+      },
+      "blocks": [
+        {
+          "id": "auth-hero",
+          "type": "hero",
+          "label": "ShortForge AI sign-in intro",
+          "hint": "Brand, tagline and short promise",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 3,
+          "item_ref": {
+            "index": 1,
+            "text": "Build built-in sign-in and a four-screen onboarding flow before creation, with a mobile-first charcoal, purple, blue, and white design, rounded cards, and modern typography."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "auth-form",
+          "type": "form",
+          "label": "Sign in / sign up",
+          "hint": "Built-in account entry, including available provider choices",
+          "x": 0,
+          "y": 3,
+          "w": 12,
+          "h": 5,
+          "item_ref": {
+            "index": 1,
+            "text": "Build built-in sign-in and a four-screen onboarding flow before creation, with a mobile-first charcoal, purple, blue, and white design, rounded cards, and modern typography."
+          },
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    },
+    {
+      "id": "page-0d98bda7",
+      "name": "Onboarding",
+      "route": "/onboarding",
+      "item_ref": {
+        "index": 1,
+        "text": "Build built-in sign-in and a four-screen onboarding flow before creation, with a mobile-first charcoal, purple, blue, and white design, rounded cards, and modern typography."
+      },
+      "blocks": [
+        {
+          "id": "onboarding-hero",
+          "type": "hero",
+          "label": "Four-screen product tour",
+          "hint": "Welcome, faster content, ads that sell, and first video",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 5,
+          "item_ref": {
+            "index": 1,
+            "text": "Build built-in sign-in and a four-screen onboarding flow before creation, with a mobile-first charcoal, purple, blue, and white design, rounded cards, and modern typography."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "onboarding-controls",
+          "type": "text",
+          "label": "Progress and next actions",
+          "hint": "Four-step indicator, Back, Next, and Create My First Short",
+          "x": 0,
+          "y": 5,
+          "w": 12,
+          "h": 2,
+          "item_ref": {
+            "index": 1,
+            "text": "Build built-in sign-in and a four-screen onboarding flow before creation, with a mobile-first charcoal, purple, blue, and white design, rounded cards, and modern typography."
+          },
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    },
+    {
+      "id": "page-18c75fcc",
+      "name": "Home dashboard",
+      "route": "/",
+      "item_ref": {
+        "index": 2,
+        "text": "Build the creator dashboard with current plan, monthly videos remaining, recent videos, upgrade entry point, and the four requested creation actions."
+      },
+      "blocks": [
+        {
+          "id": "home-nav",
+          "type": "nav",
+          "label": "ShortForge navigation",
+          "hint": "Brand, dashboard and creator links",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 1,
+          "item_ref": {
+            "index": 2,
+            "text": "Build the creator dashboard with current plan, monthly videos remaining, recent videos, upgrade entry point, and the four requested creation actions."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "home-welcome",
+          "type": "hero",
+          "label": "Creator welcome",
+          "hint": "Purpose and quick upgrade entry point",
+          "x": 0,
+          "y": 1,
+          "w": 12,
+          "h": 2,
+          "item_ref": {
+            "index": 2,
+            "text": "Build the creator dashboard with current plan, monthly videos remaining, recent videos, upgrade entry point, and the four requested creation actions."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "home-usage",
+          "type": "card_grid",
+          "label": "Plan and usage",
+          "hint": "Current plan and monthly videos remaining",
+          "x": 0,
+          "y": 3,
+          "w": 12,
+          "h": 2,
+          "item_ref": {
+            "index": 2,
+            "text": "Build the creator dashboard with current plan, monthly videos remaining, recent videos, upgrade entry point, and the four requested creation actions."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "home-actions",
+          "type": "card_grid",
+          "label": "Four creation actions",
+          "hint": "Short, Product Ad, UGC Ad, and 10 Videos",
+          "x": 0,
+          "y": 5,
+          "w": 12,
+          "h": 4,
+          "item_ref": {
+            "index": 2,
+            "text": "Build the creator dashboard with current plan, monthly videos remaining, recent videos, upgrade entry point, and the four requested creation actions."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "home-recent",
+          "type": "list",
+          "label": "Recent videos",
+          "hint": "Projects and generation status, with empty state",
+          "x": 0,
+          "y": 9,
+          "w": 12,
+          "h": 3,
+          "item_ref": {
+            "index": 2,
+            "text": "Build the creator dashboard with current plan, monthly videos remaining, recent videos, upgrade entry point, and the four requested creation actions."
+          },
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    },
+    {
+      "id": "page-33146850",
+      "name": "Create a Short",
+      "route": "/create",
+      "item_ref": {
+        "index": 3,
+        "text": "Build the beginner-friendly normal Short creator: idea, duration and style choices, real AI generation of hook, script, scenes, voiceover, visuals, captions, music, CTA, and a playable finished vertical video with project status and error handling."
+      },
+      "blocks": [
+        {
+          "id": "create-nav",
+          "type": "nav",
+          "label": "ShortForge navigation",
+          "hint": "Dashboard and creator links",
+          "x": 0,
+          "y": 0,
+          "w": 12,
+          "h": 1,
+          "item_ref": {
+            "index": 3,
+            "text": "Build the beginner-friendly normal Short creator: idea, duration and style choices, real AI generation of hook, script, scenes, voiceover, visuals, captions, music, CTA, and a playable finished vertical video with project status and error handling."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "create-form",
+          "type": "form",
+          "label": "Idea and options",
+          "hint": "Idea entry, 15/30/60 seconds and nine styles",
+          "x": 0,
+          "y": 1,
+          "w": 12,
+          "h": 4,
+          "item_ref": {
+            "index": 3,
+            "text": "Build the beginner-friendly normal Short creator: idea, duration and style choices, real AI generation of hook, script, scenes, voiceover, visuals, captions, music, CTA, and a playable finished vertical video with project status and error handling."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "create-action",
+          "type": "text",
+          "label": "Generate action",
+          "hint": "Start generation, loading and error feedback",
+          "x": 0,
+          "y": 5,
+          "w": 12,
+          "h": 2,
+          "item_ref": {
+            "index": 3,
+            "text": "Build the beginner-friendly normal Short creator: idea, duration and style choices, real AI generation of hook, script, scenes, voiceover, visuals, captions, music, CTA, and a playable finished vertical video with project status and error handling."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "create-preview",
+          "type": "video",
+          "label": "Vertical video preview",
+          "hint": "Playable finished video and creation progress",
+          "x": 0,
+          "y": 7,
+          "w": 12,
+          "h": 5,
+          "item_ref": {
+            "index": 3,
+            "text": "Build the beginner-friendly normal Short creator: idea, duration and style choices, real AI generation of hook, script, scenes, voiceover, visuals, captions, music, CTA, and a playable finished vertical video with project status and error handling."
+          },
+          "type_source": "palette"
+        },
+        {
+          "id": "create-breakdown",
+          "type": "list",
+          "label": "Creative breakdown",
+          "hint": "Hook, script, scenes, captions, music, CTA and assets",
+          "x": 0,
+          "y": 12,
+          "w": 12,
+          "h": 5,
+          "item_ref": {
+            "index": 3,
+            "text": "Build the beginner-friendly normal Short creator: idea, duration and style choices, real AI generation of hook, script, scenes, voiceover, visuals, captions, music, CTA, and a playable finished vertical video with project status and error handling."
+          },
+          "type_source": "palette"
+        }
+      ],
+      "deleted_ids": []
+    }
+  ],
+  "attached_to_plan": false
+}
